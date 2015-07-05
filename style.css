@@ -1,0 +1,4 @@
+html {background: #0F0A36;}
+html, body{padding: 0;margin: 0;height: 100%}
+
+#bubbles {position: absolute;top: -100px}
