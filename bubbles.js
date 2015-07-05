@@ -30,7 +30,7 @@
 		var colorIndex = ~~(Math.random()* 10) % colors.length,
 			color = colors[colorIndex],
 			radius = 10 + 100 * Math.random(),
-			x = upperBound * Math.random() + radius * 2,
+			x = upperBound * Math.random() + radius,
 			y = height + radius * 2,
 			speed = 1 + 3 * Math.random(),
 
